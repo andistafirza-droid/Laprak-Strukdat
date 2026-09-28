@@ -87,7 +87,7 @@ int main() {
 ```
 ### Output Unguided 1 :
 
-![Screenshot Output Unguided 1_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-Three.png)
+![Screenshot Output Unguided 1_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-One.png)
 
 Program ini dibuat untuk menghitung empat operasi dasar dari dua bilangan yang diinputkan user. Pertama, dideklarasikan dua variabel bertipe `float` (`bil1` dan `bil2`) untuk menyimpan bilangan, serta empat variabel `float` lain untuk menyimpan hasil. Bilangan dibaca dengan `cin`, lalu dihitung memakai operator aritmatika `+`, `-`, dan `*`, kemudian hasilnya ditampilkan dengan `cout`.
 
