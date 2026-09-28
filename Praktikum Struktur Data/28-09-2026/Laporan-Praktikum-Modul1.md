@@ -1,8 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
-<p align="center">Muhammad Dhimas Hafizh Fathurrahman - 2311102151</p>
+<p align="center">Andhista Novian Firzatullah - 109082500092</p>
 
 ## Dasar Teori
-
 Bahasa C++ diciptakan oleh Bjarne Stroustrup di AT&T Bell Laboratories pada awal tahun 1980-an. Bahasa ini berawal dari bahasa C yang ditambahi fasilitas kelas, sehingga pada mulanya disebut "C with class", lalu disempurnakan dengan penambahan pembebanlebihan operator dan fungsi hingga menjadi C++ [3]. Pada praktikum ini, C++ dipakai sebagai bahasa untuk mempelajari dasar-dasar pemrograman sebelum masuk ke materi struktur data.
 
 ### A. Struktur Program dan Identifier<br/>
@@ -88,11 +87,7 @@ int main() {
 ```
 ### Output Unguided 1 :
 
-##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-One.png)
 
 Program ini dibuat untuk menghitung empat operasi dasar dari dua bilangan yang diinputkan user. Pertama, dideklarasikan dua variabel bertipe `float` (`bil1` dan `bil2`) untuk menyimpan bilangan, serta empat variabel `float` lain untuk menyimpan hasil. Bilangan dibaca dengan `cin`, lalu dihitung memakai operator aritmatika `+`, `-`, dan `*`, kemudian hasilnya ditampilkan dengan `cout`.
 
@@ -182,11 +177,7 @@ int main() {
 ```
 ### Output Unguided 2 :
 
-##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-2.png)
+![Screenshot Output Unguided 2_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-Two.png)
 
 Program ini mengubah angka 0 sampai 100 menjadi tulisan bahasa Indonesia. Setelah angka dibaca dengan `cin`, program mengecek dulu apakah angkanya berada di rentang 0 sampai 100. Kalau di luar rentang, program menampilkan pesan peringatan lalu berhenti.
 
@@ -233,11 +224,7 @@ int main() {
 ```
 ### Output Unguided 3 :
 
-##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-2.png)
+![Screenshot Output Unguided 3_2](https://github.com/andistafirza-droid/Laprak-Strukdat/blob/main/Praktikum%20Struktur%20Data/28-09-2026/Screenshot/Output-Unguided-Three.png)
 
 Program ini membuat pola "cermin" dari angka yang diinputkan. Kalau input-nya 3, baris pertama berisi `321*123`, baris kedua `21*12`, baris ketiga `1*1`, dan baris terakhir hanya `*`, dengan posisi yang rata tengah seperti pada gambar soal.
 
@@ -247,6 +234,4 @@ Cara kerjanya memakai perulangan `for` bersarang. Perulangan paling luar memakai
 Dari praktikum Modul 1 ini, saya belajar cara membuat program sederhana dalam bahasa C++, mulai dari struktur program, penggunaan variabel dengan tipe data yang sesuai, sampai input dan output memakai `cin` dan `cout`. Pada soal pertama, saya memakai tipe `float` dan operator aritmatika untuk menghitung dua bilangan. Pada soal kedua, saya memakai `if-else`, `switch`, serta operator `/` dan `%` untuk mengubah angka menjadi tulisan. Pada soal ketiga, saya memakai perulangan `for` bersarang untuk membentuk pola angka. Dengan latihan ini saya jadi lebih paham bahwa program yang rumit sebenarnya tersusun dari konsep dasar yang dipakai berulang, sehingga dasar-dasar ini penting dikuasai sebelum masuk ke materi struktur data.
 
 ## Referensi
-[1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
-<br>[2] Indahyati, Uce., Rahmawati Yunianita. (2020). "BUKU AJAR ALGORITMA DAN PEMROGRAMAN DALAM BAHASA C++". Sidoarjo: Umsida Press. Diakses pada 10 Maret 2024 melalui https://doi.org/10.21070/2020/978-623-6833-67-4.
-<br>[3] Modul 1 Struktur Data: Code Blocks IDE & Pengenalan Bahasa C++ (Bagian Pertama). Fakultas Informatika, Telkom University.
+[1] Modul 1 Struktur Data: Code Blocks IDE & Pengenalan Bahasa C++ (Bagian Pertama). Fakultas Informatika, Telkom University.
